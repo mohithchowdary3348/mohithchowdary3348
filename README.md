@@ -1,11 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:00d2ff&height=200&section=header&text=Mohith%20Chowdary%20Surabathuni&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20LLMs%20%C2%B7%20Agentic%20AI%20%C2%B7%20RAG%20%C2%B7%20Azure&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:00d2ff&height=220&section=header&text=Mohith%20Chowdary%20Surabathuni&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%94%20LLMs%20%C2%B7%20Agentic%20AI%20%C2%B7%20RAG%20%C2%B7%20Azure&descAlignY=56&descSize=17" width="100%"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohithchowdary)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohithchowdary3348@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=mohithchowdary3348&style=for-the-badge&color=6e40c9)](https://github.com/mohithchowdary3348)
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Remote%20%7C%20Hybrid%20%7C%20Contract-00b37e?style=for-the-badge)](https://linkedin.com/in/mohithchowdary)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohith-chowdary-surabathuni)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohithchowdary3348@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=mohithchowdary3348&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS)](https://github.com/mohithchowdary3348)
+[![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2_Open_to_Work-Remote_%7C_Hybrid_%7C_Onsite_%7C_Contract-00b37e?style=for-the-badge)](https://linkedin.com/in/mohith-chowdary-surabathuni)
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Building+production+LLM+systems+%F0%9F%A4%96;Multi-Agent+Pipelines+%7C+LangGraph+%7C+LangChain;RAG+%2B+Vector+Search+on+Azure+AI+Search;FastAPI+%7C+Docker+%7C+Kubernetes+%7C+MLflow;Turning+AI+research+into+real+products+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,59 +29,77 @@ I work across the full stack of modern AI engineering: from prompt design and ve
 
 <div align="center">
 
-**Languages & Core**
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=python,typescript,bash,postgres)](https://skillicons.dev)
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://gnu.org/software/bash)
+### ML / Deep Learning
+[![ML Stack](https://skillicons.dev/icons?i=pytorch,tensorflow)](https://skillicons.dev)
 
-**GenAI & LLM Frameworks**
+&nbsp;
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co)
+[![LoRA/QLoRA](https://img.shields.io/badge/LoRA%20%7C%20QLoRA%20%7C%20PEFT-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://huggingface.co/docs/peft)
+[![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)](https://onnx.ai)
+[![TorchServe](https://img.shields.io/badge/TorchServe-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/serve)
 
-[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://langchain.com)
-[![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://langchain.com/langgraph)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co)
-[![OpenAI](https://img.shields.io/badge/Azure%20OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://azure.microsoft.com/en-us/products/ai-services/openai-service)
-[![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge&logo=llama&logoColor=white)](https://llamaindex.ai)
+### GenAI & Agentic Frameworks
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](https://langchain.com)
+[![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](https://langchain.com/langgraph)
+[![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](https://smith.langchain.com)
+[![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8A2BE2?style=flat-square&logoColor=white)](https://llamaindex.ai)
+[![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/en-us/products/ai-services/openai-service)
+[![CopilotKit](https://img.shields.io/badge/CopilotKit-6e40c9?style=flat-square&logoColor=white)](https://copilotkit.ai)
+[![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-00d2ff?style=flat-square&logoColor=white)](https://modelcontextprotocol.io)
 
-**ML & Deep Learning**
+### RAG & Vector Search
+[![Azure AI Search](https://img.shields.io/badge/Azure%20AI%20Search-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com)
+[![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)](https://pinecone.io)
+[![FAISS](https://img.shields.io/badge/FAISS-0072C6?style=flat-square&logoColor=white)](https://faiss.ai)
+[![Weaviate](https://img.shields.io/badge/Weaviate-00B4CE?style=flat-square&logoColor=white)](https://weaviate.io)
+[![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)](https://trychroma.com)
 
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tensorflow.org)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
+### Cloud & Infrastructure
+[![Cloud Stack](https://skillicons.dev/icons?i=azure,docker,kubernetes,github)](https://skillicons.dev)
 
-**Vector Databases & Search**
+&nbsp;
+[![Azure ML](https://img.shields.io/badge/Azure%20ML-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com)
+[![AKS](https://img.shields.io/badge/AKS-0078D4?style=flat-square&logo=kubernetes&logoColor=white)](https://azure.microsoft.com)
+[![Azure Functions](https://img.shields.io/badge/Azure%20Functions-0062AD?style=flat-square&logo=azure-functions&logoColor=white)](https://azure.microsoft.com)
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)](https://github.com/features/actions)
+[![Azure APIM](https://img.shields.io/badge/Azure%20APIM-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com)
 
-[![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)](https://pinecone.io)
-[![Weaviate](https://img.shields.io/badge/Weaviate-00BB88?style=for-the-badge&logo=weaviate&logoColor=white)](https://weaviate.io)
-[![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)](https://github.com/facebookresearch/faiss)
-[![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=chroma&logoColor=white)](https://trychroma.com)
+### APIs & Backends
+[![API Stack](https://skillicons.dev/icons?i=fastapi,nodejs)](https://skillicons.dev)
 
-**Cloud & Infrastructure**
+&nbsp;
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=grpc&logoColor=white)](https://grpc.io)
+[![OAuth2/JWT](https://img.shields.io/badge/OAuth2%20%7C%20JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)](https://jwt.io)
 
-[![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io)
-[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
-
-**APIs & Observability**
-
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
-[![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)](https://mlflow.org)
-[![Weights & Biases](https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)](https://wandb.ai)
-[![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://databricks.com)
+### MLOps & Observability
+[![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)](https://mlflow.org)
+[![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)](https://wandb.ai)
+[![Langfuse](https://img.shields.io/badge/Langfuse-CC0000?style=flat-square&logoColor=white)](https://langfuse.com)
+[![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)](https://databricks.com)
+[![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)](https://airflow.apache.org)
+[![Prefect](https://img.shields.io/badge/Prefect-024DFD?style=flat-square&logo=prefect&logoColor=white)](https://prefect.io)
+[![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)](https://snowflake.com)
 
 </div>
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 Featured Projects
 
-| Project | Stack | Status |
-|---|---|---|
-| 🔍 **Production RAG Pipeline** | Azure AI Search · LangGraph · FastAPI | 🟢 Active |
-| 🤖 **Multi-Agent Orchestration** | LangGraph · GPT-4o · MCP · Tool Calling | 🟢 Active |
-| 🧩 **LLM Evaluation Framework** | Langfuse · MLflow · Groundedness Metrics | 🔵 Building |
+<div align="center">
+
+| Project | What it does | Stack |
+|:--------|:-------------|:------|
+| 🔍 **Production RAG System** | Hybrid BM25 + semantic search with re-ranking & hallucination mitigation | Azure AI Search · LangChain · FastAPI |
+| 🤖 **Multi-Agent Orchestrator** | Planner/Executor/Evaluator with self-reflection loops & persistent memory | LangGraph · GPT-4o · LangSmith |
+| 📊 **LLM Observability Platform** | End-to-end tracing, groundedness scoring & drift detection for prod LLMs | Langfuse · MLflow · Azure Monitor |
+| 🗃️ **Open Data QnA** | Natural language → SQL over BigQuery with agentic multi-round debugging | Python · Gemini · asyncio |
+
+</div>
 
 ---
 
@@ -83,22 +107,37 @@ I work across the full stack of modern AI engineering: from prompt design and ve
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohithchowdary3348&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mohithchowdary3348&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=00d2ff&text_color=c9d1d9&ring_color=6e40c9&include_all_commits=true&count_private=true" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohithchowdary3348&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&langs_count=8" height="170"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=mohithchowdary3348&theme=tokyonight&hide_border=true&background=0d1117&stroke=6e40c9&ring=6e40c9&fire=00d2ff&currStreakLabel=6e40c9&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=c9d1d9&dates=666666" height="170"/>
 
 </div>
 
 ---
 
-## 🏆 Expertise Areas
+## 🏆 GitHub Trophies
 
-```
-🧩  Agentic AI          ████████████████████  Expert
-🔍  RAG & Vector Search ████████████████████  Expert
-☁️  Azure ML Platform   ███████████████░░░░░  Advanced
-🤗  LLM Fine-tuning     ████████████░░░░░░░░  Proficient
-⚙️  MLOps & Pipelines   ██████████████░░░░░░  Advanced
-🔒  Responsible AI      ███████████████░░░░░  Advanced
-```
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mohithchowdary3348&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohithchowdary3348&theme=tokyo-night&bg_color=0d1117&color=6e40c9&line=00d2ff&point=ffffff&hide_border=true&area=true&area_color=6e40c920" width="100%"/>
+
+</div>
 
 ---
 
@@ -106,15 +145,19 @@ I work across the full stack of modern AI engineering: from prompt design and ve
 
 <div align="center">
 
-I'm actively looking for roles where I can build things that push the boundaries of what AI can do in production environments.
+*I'm actively looking for roles where I can build things that push the boundaries of what AI can do in production.*
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohithchowdary)
-[![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohithchowdary3348@gmail.com)
+<br/>
 
-**🌐 Open to:** Remote · Hybrid · Onsite · Full-time · Contract
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohith-chowdary-surabathuni)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohithchowdary3348@gmail.com)
+
+<br/>
 
 *If you're building something ambitious with LLMs, agentic systems, or production AI — let's talk.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,100:6e40c9&height=100&section=footer" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,100:6e40c9&height=120&section=footer" width="100%"/>
 
 </div>
