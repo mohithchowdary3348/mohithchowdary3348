@@ -83,9 +83,7 @@ I work across the full stack of modern AI engineering: from prompt design and ve
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats-pi-ashen.vercel.app?user=mohithchowdary3348&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohithchowdary3348&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="180"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohithchowdary3348&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph"/>
 
 </div>
 
