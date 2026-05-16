@@ -9,7 +9,7 @@ I work across the full stack of modern AI engineering: from prompt design and ve
 ## 🔧 What I Work With
 
 **GenAI & LLMs**
-Azure OpenAI (GPT-4, GPT-4o) · LangChain · LangGraph · LangSmith · LlamaIndex · CopilotKit
+Azure OpenAI (GPT-4, GPT-4o) · LangChain · LangGraph · Langfuse · LlamaIndex · CopilotKit
 
 **Agentic AI**
 Multi-Agent Systems · Planner/Executor/Evaluator Patterns · Tool Calling · MCP (Model Context Protocol) · Task Decomposition · Memory · Self-Reflection · Feedback Loops
