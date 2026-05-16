@@ -50,7 +50,7 @@ Python (primary) · JavaScript / TypeScript (Node.js) · SQL · Bash
 I'm actively looking for roles where I can build things that push the boundaries of what AI can do in production environments.
 
 - 📧 **Email:** mohithchowdary3348@gmail.com
-- 💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/mohithchowdary)
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/mohith-chowdary-surabathuni/)
 - 🌐 **Open to:** Remote · Hybrid · Onsite · Full-time · Contract
 
 ---
