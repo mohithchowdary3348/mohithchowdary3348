@@ -103,44 +103,6 @@ I work across the full stack of modern AI engineering: from prompt design and ve
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mohithchowdary3348&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=00d2ff&text_color=c9d1d9&ring_color=6e40c9&include_all_commits=true&count_private=true" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohithchowdary3348&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&langs_count=8" height="170"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=mohithchowdary3348&theme=tokyonight&hide_border=true&background=0d1117&stroke=6e40c9&ring=6e40c9&fire=00d2ff&currStreakLabel=6e40c9&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=c9d1d9&dates=666666" height="170"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mohithchowdary3348&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohithchowdary3348&theme=tokyo-night&bg_color=0d1117&color=6e40c9&line=00d2ff&point=ffffff&hide_border=true&area=true&area_color=6e40c920" width="100%"/>
-
-</div>
-
----
-
 ## 📬 Let's Connect
 
 <div align="center">
@@ -155,9 +117,5 @@ I work across the full stack of modern AI engineering: from prompt design and ve
 <br/>
 
 *If you're building something ambitious with LLMs, agentic systems, or production AI — let's talk.*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,100:6e40c9&height=120&section=footer" width="100%"/>
 
 </div>
